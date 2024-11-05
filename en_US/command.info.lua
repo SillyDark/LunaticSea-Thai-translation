@@ -1,4 +1,6 @@
 return {
+  ce_name = 'Help Command',
+  ce_total = 'Total Commands: ',
   ping_desc = '**Ping:** `%s ms`',
   invite_desc = '**Thanks for Inviting me in advance! 💫**',
   dev_desc = '"Powered by Salmon :)',
