@@ -8,7 +8,7 @@ This repo will contain all translation for LunaticSea
 ```
 git clone https://github.com/LunaticSea/translation
 ```
-- Add new folder with the ISO name of that language (eg: en_EN)
+- Add new folder with the ISO name of that language with `arisu` prefix (eg: en_EN)
 - Copy all file from en_US folder and paste to your folder language
 - Perform translation
 - Push your commit to your fork repo
