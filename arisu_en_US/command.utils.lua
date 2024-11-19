@@ -27,12 +27,6 @@ return {
   setup_enable = '`⚠️` | Music System already exists!',
   setup_null = '`⚠️` | Music System not found!',
 
-  -- Blacklist command!
-  bl_invalid_mode = '`❌` | Invalid type of mode, please use add / remove only',
-  bl_invalid_type = '`❌` | Invalid type, please use guild / user only',
-  bl_add = '`✅` | Blacklisted id `%s` successfully!',
-  bl_remove = '`✅` | Blacklisted id `%s` removed successfully!',
-
   -- Max length
   ml_invalid = '`⚠️` | Invalid time. Please use a valid timestamp. Example: **1:30**!',
   ml_set = '`✅` | Successfully set the max length of song to `%s`',
