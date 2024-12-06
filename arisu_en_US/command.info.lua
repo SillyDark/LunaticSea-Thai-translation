@@ -17,7 +17,7 @@ return {
   ce_name = 'Help Command',
   ce_total = 'Total Commands: ',
   -- Ping command
-  ping_desc = '**Ping:** `%s ms` (may incorrect)',
+  ping_desc = '**Response:** `%s ms` (may incorrect)',
   -- Invite command
   invite_desc = '**Thanks for Inviting me in advance! 💫**',
   -- Developer command
