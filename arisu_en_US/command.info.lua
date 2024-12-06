@@ -13,7 +13,7 @@ return {
   ce_finder_slash_enable = 'Enabled',
   ce_finder_slash_disable = 'Disabled',
   ce_finder_invalid = 'Invalid Command',
-  ce_finder_example = '`⚠️` | Please provide a valid **Command Name**!',
+  ce_finder_example = '`⚠` | Please provide a valid **Command Name**!',
   ce_name = 'Help Command',
   ce_total = 'Total Commands: ',
   -- Ping command

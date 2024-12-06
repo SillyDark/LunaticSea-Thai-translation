@@ -1,38 +1,38 @@
 return {
   -- Invalid Number
-  number_invalid = '`⚠️` | Please provide a valid number!',
+  number_invalid = '`⚠` | Please provide a valid number!',
 
   -- Execute when invalid
-  no_node = '`⚠️` | No Lavalink server was found. Please try again after **5 Minutes**!',
+  no_node = '`⚠` | No Lavalink server was found. Please try again after **5 Minutes**!',
 
   -- No song is currently playing!
-  no_player = '`⚠️` | No song is currently playing!',
+  no_player = '`⚠` | No song is currently playing!',
 
   -- Need to join voice & same voice to use command!
-  no_in_voice = '`⚠️` | You are not in a voice channel!',
-  no_same_voice = '`⚠️` | You are not in the same voice channel as me!',
+  no_in_voice = '`⚠` | You are not in a voice channel!',
+  no_same_voice = '`⚠` | You are not in the same voice channel as me!',
 
   -- No permission!
-  user_no_perms = '`⚠️` | You do not have **%s** permission to execute this command!',
-  no_perms = '`⚠️` | I do not have **%s** permission to execute this command!',
-  no_perms_channel = '`⚠️` | I do not have **%s** permission in <#%s> to execute this command!',
+  user_no_perms = '`⚠` | You do not have **%s** permission to execute this command!',
+  no_perms = '`⚠` | I do not have **%s** permission to execute this command!',
+  no_perms_channel = '`⚠` | I do not have **%s** permission in <#%s> to execute this command!',
 
   -- Getting error!
-  unexpected_error = '`⚠️` | Something went wrong. Please try again later!',
+  unexpected_error = '`⚠` | Something went wrong. Please try again later!',
 
   -- Client owner!
-  owner_only = '`⚠️` | You are not my **Owner**!',
+  owner_only = '`⚠` | You are not my **Owner**!',
 
   -- No premium Event!
   no_premium_author = 'Premium',
-  no_premium_desc = '`⚠️` | You are not a Premium user!',
-  no_guild_premium_desc = '`⚠️` | You are not in a premium guild!',
+  no_premium_desc = '`⚠` | You are not a Premium user!',
+  no_guild_premium_desc = '`⚠` | You are not in a premium guild!',
 
   -- Rate limit!
-  ratelimit = '`⚠️` | You are performing actions too quickly. Please wait for **%s Seconds**!',
+  ratelimit = '`⚠` | You are performing actions too quickly. Please wait for **%s Seconds**!',
 
   -- Missing args
-  arg_error = '`⚠️` | Invalid argument. Please use %s',
+  arg_error = '`⚠` | Invalid argument. Please use %s',
 
   -- Top.gg error
   topgg_error_author = '❌ | Top.gg error',
