@@ -11,8 +11,8 @@ return {
   -- Stop
   stop_msg = '`⏹️` | Stopped the **Player**!',
   -- Volume
-  volup_msg = '`🔊` | Changed Volume to **%s%**',
-  voldown_msg = '`🔉` | Changed Volume to **%s%**',
+  volup_msg = '`🔊` | Changed Volume to **%s%%**',
+  voldown_msg = '`🔉` | Changed Volume to **%s%%**',
   volume_invalid = '`⚠️` | Invalid Volume. Please use a number between **1** and **100**!',
   volume_max = '`⚠️` | Player is already at max volume!',
   volume_min = '`⚠️` | Player is already at min volume!',
