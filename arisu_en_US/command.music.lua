@@ -94,7 +94,7 @@ return {
   skip_notfound = '`⚠️` | No song was found to Skip to!',
   
   -- Volume command!
-  volume_msg = '`🔊` | Volume has been set to **%s%**',
+  volume_msg = '`🔊` | Volume has been set to **%s%%**',
   volume_invalid = '`⚠️` | Invalid Volume. Please use a number between **1** and **100**!',
   
   -- RemoveTrack command!
