@@ -15,5 +15,12 @@ git clone https://github.com/LunaticSea/translation
 - Open pull request
 - Wait!
 
+## 📃 Translate Team (Languages)
+
+- [x] **en (English)**
+  - [@RainyXeon](https://github.com/RainyXeon) **Discord:** `rainyxeon`
+- [x] **th (Thai)**
+  - [@SillyDark](https://github.com/SillyDark) **Discord:** `defectsocute`
+
 # License
 All submodule repo include source will under AGPL-v3.0 LICENSE
