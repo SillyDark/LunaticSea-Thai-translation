@@ -24,7 +24,7 @@ return {
   loop_all = '`🔁` | Looping **Queue**!',
   unloop_all = '`❌` | Loop is now **Disabled**!',
   loop_invalid = '`⚠️` | Invalid Loop mode. Please use %s!',
-  loop_already = '`⚠️` | Loop mode is already **%s**!',
+  loop_already = '`⚠️` | Loop mode is already in **%s**!',
   
   -- Lyrics command!
   lyrics_title = '📜 %s',
