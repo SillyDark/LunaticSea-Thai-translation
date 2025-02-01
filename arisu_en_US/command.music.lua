@@ -24,7 +24,7 @@ return {
   loop_all = '`🔁` | Looping **Queue**!',
   unloop_all = '`❌` | Loop is now **Disabled**!',
   loop_invalid = '`⚠️` | Invalid Loop mode. Please use %s!',
-  loop_already = '`⚠️` | Loop mode is already **%s**!',
+  loop_already = '`⚠️` | Loop mode is already in **%s**!',
   
   -- Lyrics command!
   lyrics_title = '📜 %s',
@@ -94,7 +94,7 @@ return {
   skip_notfound = '`⚠️` | No song was found to Skip to!',
   
   -- Volume command!
-  volume_msg = '`🔊` | Volume has been set to **%s%**',
+  volume_msg = '`🔊` | Volume has been set to **%s%%**',
   volume_invalid = '`⚠️` | Invalid Volume. Please use a number between **1** and **100**!',
   
   -- RemoveTrack command!
